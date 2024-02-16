@@ -14,6 +14,6 @@ Thank you for stopping by, and I hope you find something useful for yourself!
 
 This is a free course available on the Scrimba platform that I have taken as part of my journey in learning prompt engineering. It offers valuable insights and practical skills in applying ChatGPT prompts for web development tasks. Highly recommended for anyone interested in enhancing their web development projects with AI prompting techniques.
 
-- **Course Link:** [Prompt Engineering for Web Developers on Scrimba](https://scrimba.com/learn/promptengineering)
+- 📚 **Course Link:** [Prompt Engineering for Web Developers on Scrimba](https://scrimba.com/learn/promptengineering)
 
-- **Use Case Guide:** [Web Development Use Cases](WEBDEV_USE_CASES.md)
+- 💡 **Use Case Guide:** [Web Development Use Cases](WEBDEV_USE_CASES.md)
